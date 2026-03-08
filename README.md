@@ -151,7 +151,7 @@ The app will run at:
 
 * 📧 Email: [kpatel.tech.mca@gmail.com](mailto:kpatel.tech.mca@gmail.com)
 * 🐱 GitHub: [https://github.com/kishan90909](https://github.com/kishan90909)
-* 💼 Portfolio: [https://your-react-portfolio-link.com](https://your-react-portfolio-link.com)
+* 💼 Portfolio: [https://your-react-portfolio-link.com](https://portfolio-kishan001.netlify.app/)
 
 I’m open to **Frontend / Full-Stack Developer roles** and freelance opportunities.
 
